@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/ReyDavidAG/Invensa_Dist/releases/latest/download/invensa.msix",
   "critical": true,
-  "changelog": "Se agregó la funcionalidad de creación de unidades de medida en el sistema, permitiendo a los usuarios definir nuevas unidades para sus productos. Esta mejora facilita la gestión de inventarios y ventas al ofrecer mayor flexibilidad en la definición de las medidas utilizadas en el negocio.",
+  "changelog": "Se agregó la funcion de actualizar productos.",
   "releaseDate": "2026-02-10"
 }
