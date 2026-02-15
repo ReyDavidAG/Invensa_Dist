@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "url": "https://github.com/ReyDavidAG/Invensa_Dist/releases/latest/download/invensa.msix",
   "critical": true,
-  "changelog": "Se agregó la funcion de actualizar productos.",
+  "changelog": "Se corrigieron cosas de funcionamiento de navegación y actualización de productos.",
   "releaseDate": "2026-02-10"
 }
