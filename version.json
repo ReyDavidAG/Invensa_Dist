@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://github.com/ReyDavidAG/Invensa_Dist/releases/latest/download/invensa.msix",
   "critical": true,
-  "changelog": "Se corrigieron cosas de funcionamiento de navegación y actualización de productos.",
+  "changelog": "Se cambio el diseño de la pantalla dashboard.",
   "releaseDate": "2026-02-10"
 }
