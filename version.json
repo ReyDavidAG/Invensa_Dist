@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "url": "https://github.com/ReyDavidAG/Invensa_Dist/releases/latest/download/invensa.msix",
   "critical": true,
-  "changelog": "### Módulo de Ventas\n- **Cantidades Decimales:** Soporte para hasta 3 decimales e ingreso directo vía teclado.\n- **Búsqueda Ágil:** Carga inicial de productos al enfocar el buscador.\n- **Visor de Ticket:** Nuevo resumen de venta tipo ticket con desglose detallado.\n### Detalle de Ventas\n- **Imágenes en Tiempo Real:** Visualización dinámica de fotos de productos desde la API.\n- **Cálculos Precisos:** Corrección de subtotales en cero y mejoras en formato de moneda.\n### Sistema\n- **Localización:** Soporte completo para idioma español en fechas y calendarios.\n- **Robustez:** Mejoras en la integridad de datos y manejo de errores de API.",
+  "changelog": "Se corrigieron errores de scroll y se mejoró la pantalla de creacion de venta para los descuentos calculados.",
   "releaseDate": "2026-02-16"
 }
