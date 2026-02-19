@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "url": "https://github.com/ReyDavidAG/Invensa_Dist/releases/latest/download/invensa.msix",
   "critical": true,
-  "changelog": "Se corrigieron errores de scroll y se mejoró la pantalla de creacion de venta para los descuentos calculados.",
-  "releaseDate": "2026-02-16"
+  "changelog": "Pantalla de clientes y dashboard con gráficos de ventas y productos.",
+  "releaseDate": "2026-02-18"
 }
