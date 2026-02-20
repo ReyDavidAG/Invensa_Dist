@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/ReyDavidAG/Invensa_Dist/releases/latest/download/invensa.msix",
   "critical": true,
-  "changelog": "Pantalla de clientes y dashboard con gráficos de ventas y productos.",
-  "releaseDate": "2026-02-18"
+  "changelog": "Nuevo sistema de filtrado ergonómico para escritorio, selector de rango personalizado compacto, optimización de visualización de imágenes de productos (fondo blanco/contain) y corrección de navegación en formularios.",
+  "releaseDate": "2026-02-19"
 }
